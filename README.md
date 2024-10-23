@@ -4,23 +4,22 @@ Here’s a description for your 2D shooting game:
 
 # 2D Shooting Game
 
-This project is a classic 2D shooting game where players control a spaceship (or character) to fight off waves of enemies. The game features responsive controls, dynamic shooting mechanics, and various enemies with unique behaviors. Players aim to survive for as long as possible while defeating enemies and earning points. 
+This project is a classic 2D shooting game where players fight off waves of enemies. It features responsive controls, dynamic shooting mechanics, and a variety of enemies with unique behaviors. The goal is to survive as long as possible while defeating enemies and avoiding being defeated. 
 
 ## Features
 
-- **Player Control**: Smooth and responsive movement and shooting mechanics using keyboard or gamepad input.
-- **Enemy Waves**: Multiple types of enemies with different movement patterns and difficulty levels.
-- **Shooting Mechanism**: Players can shoot projectiles to destroy enemies. Different types of weapons (e.g., laser, bullets) may be available.
-- **Scoring System**: Players earn points for each enemy destroyed, with higher scores for tougher enemies.
-- **Health and Lives**: Players have a limited number of lives and health points. The game ends when health is depleted.
-- **Power-ups**: Collect power-ups that enhance shooting speed, increase damage, or provide temporary invincibility.
-- **Background Music and Sound Effects**: Engaging background music and sound effects for actions like shooting and taking damage.
-- **Responsive UI**: A simple yet effective user interface showing score, health, and other game stats.
+- **Player Control**: Smooth and responsive movement, with shooting mechanics controlled by left mouse input.
+- **Enemy Waves**: Multiple enemy types, each with unique movement patterns and varying difficulty levels.
+- **Shooting Mechanism**: Players can fire projectiles to eliminate enemies.
+- **Health System**: Players have health points, and the game ends when their health is fully depleted.
+- **Background Music and Sound Effects**: Immersive background music and sound effects for actions like shooting and taking damage.
+- **Responsive UI**: A clean and intuitive user interface displaying health and other game statistics.
+
 
 ## Tech Stack
 
-- **Language**: Python (with Pygame), C#, or JavaScript (if you’re using a web framework like Phaser)
-- **Framework**: Pygame / Phaser / Unity (depending on the platform used)
+- **Language**: Python (with Pygame)
+- **Framework**: Pygame 
 - **Graphics**: 2D Sprites for the player, enemies, and projectiles.
 - **Audio**: Background music and sound effects.
 
@@ -46,9 +45,11 @@ This project is a classic 2D shooting game where players control a spaceship (or
 
 ## Controls
 
-- **Movement**: Arrow keys or WASD for movement.
-- **Shooting**: Spacebar or a designated key to shoot projectiles.
-- **Pause**: Press `P` to pause the game.
+- **Movement**: Use arrow keys or WASD to move.
+- **Speed Boost**: Press the spacebar to double your speed.
+- **Shooting**: Use the left mouse button to shoot projectiles.
+
+
 
 ## Future Improvements
 
