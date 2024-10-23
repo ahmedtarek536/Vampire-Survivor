@@ -50,14 +50,3 @@ This project is a classic 2D shooting game where players fight off waves of enem
 - **Shooting**: Use the left mouse button to shoot projectiles.
 
 
-
-## Future Improvements
-
-- Add a leveling system for players and enemies.
-- Introduce more weapon types and enemy bosses.
-- Implement multiplayer or co-op modes.
-- Add more immersive animations and particle effects.
-
----
-
-This description highlights the core mechanics and gameplay experience of your 2D shooting game. You can adjust it based on your specific implementation and features.
