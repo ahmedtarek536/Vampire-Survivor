@@ -24,7 +24,7 @@ This project is a classic 2D shooting game where players fight off waves of enem
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/2d-shooting-game.git
+   git clone https://github.com/ahmedtarek536/Vampire-Survivor.git
    ```
 
 2. Install any necessary dependencies (if using Python with Pygame):
