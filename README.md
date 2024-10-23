@@ -1,7 +1,3 @@
-Here’s a description for your 2D shooting game:
-
----
-
 # 2D Shooting Game
 
 This project is a classic 2D shooting game where players fight off waves of enemies. It features responsive controls, dynamic shooting mechanics, and a variety of enemies with unique behaviors. The goal is to survive as long as possible while defeating enemies and avoiding being defeated. 
