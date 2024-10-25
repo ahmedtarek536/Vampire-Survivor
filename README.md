@@ -46,3 +46,8 @@ This project is a classic 2D shooting game where players fight off waves of enem
 - **Shooting**: Use the left mouse button to shoot projectiles.
 
 
+## video
+
+[video on google drive](https://drive.google.com/file/d/1RxKUcYcysHHyYKcADmYGVX5nXnxgUFUv/view?usp=sharing)
+
+
